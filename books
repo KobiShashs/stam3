@@ -1,0 +1,748 @@
+{
+"kind": "books#volumes",
+"totalItems": 552,
+"items": [
+{
+"kind": "books#volume",
+"id": "aukqDwAAQBAJ",
+"etag": "iwNhwo4icrE",
+"selfLink": "https://www.googleapis.com/books/v1/volumes/aukqDwAAQBAJ",
+"volumeInfo": {
+"title": "Why?",
+"subtitle": "What Makes Us Curious",
+"authors": [
+"Mario Livio"
+],
+"publisher": "Simon and Schuster",
+"publishedDate": "2017-07-11",
+"description": "Livio investigates curiosity through the lives of paragons of inquisitiveness as Leonardo da Vinci and Richard Feynman. He interviewed a range of exceptionally curious people from an astronaut with degrees in statistics, medicine, and literature to a rock guitarist with a PhD in astrophysics",
+"industryIdentifiers": [
+{
+"type": "ISBN_13",
+"identifier": "9781476792095"
+},
+{
+"type": "ISBN_10",
+"identifier": "1476792097"
+}
+],
+"readingModes": {
+"text": false,
+"image": false
+},
+"pageCount": 272,
+"printType": "BOOK",
+"categories": [
+"Education"
+],
+"maturityRating": "NOT_MATURE",
+"allowAnonLogging": false,
+"contentVersion": "preview-1.0.0",
+"panelizationSummary": {
+"containsEpubBubbles": false,
+"containsImageBubbles": false
+},
+"imageLinks": {
+"smallThumbnail": "http://books.google.com/books/content?id=aukqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+"thumbnail": "http://books.google.com/books/content?id=aukqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+"language": "en",
+"previewLink": "http://books.google.com/books?id=aukqDwAAQBAJ&printsec=frontcover&dq=mario+livio&hl=&cd=1&source=gbs_api",
+"infoLink": "http://books.google.com/books?id=aukqDwAAQBAJ&dq=mario+livio&hl=&source=gbs_api",
+"canonicalVolumeLink": "https://books.google.com/books/about/Why.html?hl=&id=aukqDwAAQBAJ"
+},
+"saleInfo": {
+"country": "IL",
+"saleability": "NOT_FOR_SALE",
+"isEbook": false
+},
+"accessInfo": {
+"country": "IL",
+"viewability": "PARTIAL",
+"embeddable": true,
+"publicDomain": false,
+"textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+"epub": {
+"isAvailable": false
+},
+"pdf": {
+"isAvailable": false
+},
+"webReaderLink": "http://play.google.com/books/reader?id=aukqDwAAQBAJ&hl=&source=gbs_api",
+"accessViewStatus": "SAMPLE",
+"quoteSharingAllowed": false
+},
+"searchInfo": {
+"textSnippet": "Livio investigates curiosity through the lives of paragons of inquisitiveness as Leonardo da Vinci and Richard Feynman."
+}
+},
+{
+"kind": "books#volume",
+"id": "Kl6Y2ggpTQMC",
+"etag": "WYfLHquPiKY",
+"selfLink": "https://www.googleapis.com/books/v1/volumes/Kl6Y2ggpTQMC",
+"volumeInfo": {
+"title": "The Golden Ratio",
+"subtitle": "The Story of PHI, the World's Most Astonishing Number",
+"authors": [
+"Mario Livio"
+],
+"publisher": "Crown",
+"publishedDate": "2003-09-23",
+"description": "Throughout history, thinkers from mathematicians to theologians have pondered the mysterious relationship between numbers and the nature of reality. In this fascinating book, Mario Livio tells the tale of a number at the heart of that mystery: phi, or 1.6180339887...This curious mathematical relationship, widely known as \"The Golden Ratio,\" was discovered by Euclid more than two thousand years ago because of its crucial role in the construction of the pentagram, to which magical properties had been attributed. Since then it has shown a propensity to appear in the most astonishing variety of places, from mollusk shells, sunflower florets, and rose petals to the shape of the galaxy. Psychological studies have investigated whether the Golden Ratio is the most aesthetically pleasing proportion extant, and it has been asserted that the creators of the Pyramids and the Parthenon employed it. It is believed to feature in works of art from Leonardo da Vinci's Mona Lisa to Salvador Dali's The Sacrament of the Last Supper, and poets and composers have used it in their works. It has even been found to be connected to the behavior of the stock market! The Golden Ratio is a captivating journey through art and architecture, botany and biology, physics and mathematics. It tells the human story of numerous phi-fixated individuals, including the followers of Pythagoras who believed that this proportion revealed the hand of God; astronomer Johannes Kepler, who saw phi as the greatest treasure of geometry; such Renaissance thinkers as mathematician Leonardo Fibonacci of Pisa; and such masters of the modern world as Goethe, Cezanne, Bartok, and physicist Roger Penrose. Wherever his quest for the meaning of phi takes him, Mario Livio reveals the world as a place where order, beauty, and eternal mystery will always coexist.",
+"industryIdentifiers": [
+{
+"type": "ISBN_10",
+"identifier": "0767908163"
+},
+{
+"type": "ISBN_13",
+"identifier": "9780767908160"
+}
+],
+"readingModes": {
+"text": false,
+"image": false
+},
+"pageCount": 308,
+"printType": "BOOK",
+"categories": [
+"Mathematics"
+],
+"averageRating": 4,
+"ratingsCount": 18,
+"maturityRating": "NOT_MATURE",
+"allowAnonLogging": false,
+"contentVersion": "1.2.1.0.preview.0",
+"panelizationSummary": {
+"containsEpubBubbles": false,
+"containsImageBubbles": false
+},
+"imageLinks": {
+"smallThumbnail": "http://books.google.com/books/content?id=Kl6Y2ggpTQMC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+"thumbnail": "http://books.google.com/books/content?id=Kl6Y2ggpTQMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+},
+"language": "en",
+"previewLink": "http://books.google.com/books?id=Kl6Y2ggpTQMC&q=mario+livio&dq=mario+livio&hl=&cd=2&source=gbs_api",
+"infoLink": "http://books.google.com/books?id=Kl6Y2ggpTQMC&dq=mario+livio&hl=&source=gbs_api",
+"canonicalVolumeLink": "https://books.google.com/books/about/The_Golden_Ratio.html?hl=&id=Kl6Y2ggpTQMC"
+},
+"saleInfo": {
+"country": "IL",
+"saleability": "NOT_FOR_SALE",
+"isEbook": false
+},
+"accessInfo": {
+"country": "IL",
+"viewability": "NO_PAGES",
+"embeddable": false,
+"publicDomain": false,
+"textToSpeechPermission": "ALLOWED",
+"epub": {
+"isAvailable": false
+},
+"pdf": {
+"isAvailable": false
+},
+"webReaderLink": "http://play.google.com/books/reader?id=Kl6Y2ggpTQMC&hl=&source=gbs_api",
+"accessViewStatus": "NONE",
+"quoteSharingAllowed": false
+},
+"searchInfo": {
+"textSnippet": "In this fascinating book, Mario Livio tells the tale of a number at the heart of that mystery: phi, or 1.6180339887."
+}
+},
+{
+"kind": "books#volume",
+"id": "zYs7DwAAQBAJ",
+"etag": "Mox5FIhUeBE",
+"selfLink": "https://www.googleapis.com/books/v1/volumes/zYs7DwAAQBAJ",
+"volumeInfo": {
+"title": "Is God a Mathematician?",
+"authors": [
+"Mario Livio"
+],
+"publisher": "Simon and Schuster",
+"publishedDate": "2010-01-19",
+"description": "Explores the plausibility of mathematical answers to puzzles in the physical world, in an accessible exploration of the lives and thoughts of such figures as Archimedes, Galileo, and Newton. By the author of The Golden Ratio. 50,000 first printing.",
+"industryIdentifiers": [
+{
+"type": "ISBN_13",
+"identifier": "9780743294065"
+},
+{
+"type": "ISBN_10",
+"identifier": "0743294068"
+}
+],
+"readingModes": {
+"text": false,
+"image": false
+},
+"pageCount": 320,
+"printType": "BOOK",
+"categories": [
+"Mathematics"
+],
+"averageRating": 4,
+"ratingsCount": 6,
+"maturityRating": "NOT_MATURE",
+"allowAnonLogging": false,
+"contentVersion": "0.2.1.0.preview.0",
+"panelizationSummary": {
+"containsEpubBubbles": false,
+"containsImageBubbles": false
+},
+"imageLinks": {
+"smallThumbnail": "http://books.google.com/books/content?id=zYs7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+"thumbnail": "http://books.google.com/books/content?id=zYs7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+"language": "en",
+"previewLink": "http://books.google.com/books?id=zYs7DwAAQBAJ&printsec=frontcover&dq=mario+livio&hl=&cd=3&source=gbs_api",
+"infoLink": "http://books.google.com/books?id=zYs7DwAAQBAJ&dq=mario+livio&hl=&source=gbs_api",
+"canonicalVolumeLink": "https://books.google.com/books/about/Is_God_a_Mathematician.html?hl=&id=zYs7DwAAQBAJ"
+},
+"saleInfo": {
+"country": "IL",
+"saleability": "NOT_FOR_SALE",
+"isEbook": false
+},
+"accessInfo": {
+"country": "IL",
+"viewability": "PARTIAL",
+"embeddable": true,
+"publicDomain": false,
+"textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+"epub": {
+"isAvailable": false
+},
+"pdf": {
+"isAvailable": false
+},
+"webReaderLink": "http://play.google.com/books/reader?id=zYs7DwAAQBAJ&hl=&source=gbs_api",
+"accessViewStatus": "SAMPLE",
+"quoteSharingAllowed": false
+},
+"searchInfo": {
+"textSnippet": "Explores the plausibility of mathematical answers to puzzles in the physical world, in an accessible exploration of the lives and thoughts of such figures as Archimedes, Galileo, and Newton."
+}
+},
+{
+"kind": "books#volume",
+"id": "33crEAAAQBAJ",
+"etag": "bNDJNj6n6k4",
+"selfLink": "https://www.googleapis.com/books/v1/volumes/33crEAAAQBAJ",
+"volumeInfo": {
+"title": "Galileo",
+"subtitle": "And the Science Deniers",
+"authors": [
+"Mario Livio"
+],
+"publisher": "Simon and Schuster",
+"publishedDate": "2021-05-25",
+"description": "An “intriguing and accessible” (Publishers Weekly) interpretation of the life of Galileo Galilei, one of history’s greatest and most fascinating scientists, that sheds new light on his discoveries and how he was challenged by science deniers. “We really need this story now, because we’re living through the next chapter of science denial” (Bill McKibben). Galileo’s story may be more relevant today than ever before. At present, we face enormous crises—such as minimizing the dangers of climate change—because the science behind these threats is erroneously questioned or ignored. Galileo encountered this problem 400 years ago. His discoveries, based on careful observations and ingenious experiments, contradicted conventional wisdom and the teachings of the church at the time. Consequently, in a blatant assault on freedom of thought, his books were forbidden by church authorities. Astrophysicist and bestselling author Mario Livio draws on his own scientific expertise and uses his “gifts as a great storyteller” (The Washington Post) to provide a “refreshing perspective” (Booklist) into how Galileo reached his bold new conclusions about the cosmos and the laws of nature. A freethinker who followed the evidence wherever it led him, Galileo was one of the most significant figures behind the scientific revolution. He believed that every educated person should know science as well as literature, and insisted on reaching the widest audience possible, publishing his books in Italian rather than Latin. Galileo was put on trial with his life in the balance for refusing to renounce his scientific convictions. He remains a hero and inspiration to scientists and all of those who respect science—which, as Livio reminds us in this “admirably clear and concise” (The Times, London) book, remains threatened everyday.",
+"industryIdentifiers": [
+{
+"type": "ISBN_13",
+"identifier": "9781501194740"
+},
+{
+"type": "ISBN_10",
+"identifier": "1501194747"
+}
+],
+"readingModes": {
+"text": false,
+"image": false
+},
+"pageCount": 304,
+"printType": "BOOK",
+"categories": [
+"Biography & Autobiography"
+],
+"averageRating": 3,
+"ratingsCount": 1,
+"maturityRating": "NOT_MATURE",
+"allowAnonLogging": false,
+"contentVersion": "0.0.1.0.preview.0",
+"panelizationSummary": {
+"containsEpubBubbles": false,
+"containsImageBubbles": false
+},
+"imageLinks": {
+"smallThumbnail": "http://books.google.com/books/content?id=33crEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+"thumbnail": "http://books.google.com/books/content?id=33crEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+"language": "en",
+"previewLink": "http://books.google.com/books?id=33crEAAAQBAJ&printsec=frontcover&dq=mario+livio&hl=&cd=4&source=gbs_api",
+"infoLink": "http://books.google.com/books?id=33crEAAAQBAJ&dq=mario+livio&hl=&source=gbs_api",
+"canonicalVolumeLink": "https://books.google.com/books/about/Galileo.html?hl=&id=33crEAAAQBAJ"
+},
+"saleInfo": {
+"country": "IL",
+"saleability": "NOT_FOR_SALE",
+"isEbook": false
+},
+"accessInfo": {
+"country": "IL",
+"viewability": "PARTIAL",
+"embeddable": true,
+"publicDomain": false,
+"textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+"epub": {
+"isAvailable": false
+},
+"pdf": {
+"isAvailable": false
+},
+"webReaderLink": "http://play.google.com/books/reader?id=33crEAAAQBAJ&hl=&source=gbs_api",
+"accessViewStatus": "SAMPLE",
+"quoteSharingAllowed": false
+},
+"searchInfo": {
+"textSnippet": "An “intriguing and accessible” (Publishers Weekly) interpretation of the life of Galileo Galilei, one of history’s greatest and most fascinating scientists, that sheds new light on his discoveries and how he was challenged by science ..."
+}
+},
+{
+"kind": "books#volume",
+"id": "o7w8PgAACAAJ",
+"etag": "jHZfkXh1r1s",
+"selfLink": "https://www.googleapis.com/books/v1/volumes/o7w8PgAACAAJ",
+"volumeInfo": {
+"title": "The Equation that Couldn't be Solved",
+"subtitle": "How Mathematical Genius Discovered the Language of Symmetry",
+"authors": [
+"Mario Livio"
+],
+"publishedDate": "2007",
+"description": "From the author of the bestseller \"The Golden Ratio\" comes the story of the 4,000-year-long mathematical quest that uncovered the laws of symmetry in nature and the arts.",
+"industryIdentifiers": [
+{
+"type": "ISBN_10",
+"identifier": "0285637894"
+},
+{
+"type": "ISBN_13",
+"identifier": "9780285637894"
+}
+],
+"readingModes": {
+"text": false,
+"image": false
+},
+"pageCount": 353,
+"printType": "BOOK",
+"categories": [
+"Group theory"
+],
+"averageRating": 3,
+"ratingsCount": 5,
+"maturityRating": "NOT_MATURE",
+"allowAnonLogging": false,
+"contentVersion": "preview-1.0.0",
+"panelizationSummary": {
+"containsEpubBubbles": false,
+"containsImageBubbles": false
+},
+"imageLinks": {
+"smallThumbnail": "http://books.google.com/books/content?id=o7w8PgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+"thumbnail": "http://books.google.com/books/content?id=o7w8PgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+},
+"language": "en",
+"previewLink": "http://books.google.com/books?id=o7w8PgAACAAJ&dq=mario+livio&hl=&cd=5&source=gbs_api",
+"infoLink": "http://books.google.com/books?id=o7w8PgAACAAJ&dq=mario+livio&hl=&source=gbs_api",
+"canonicalVolumeLink": "https://books.google.com/books/about/The_Equation_that_Couldn_t_be_Solved.html?hl=&id=o7w8PgAACAAJ"
+},
+"saleInfo": {
+"country": "IL",
+"saleability": "NOT_FOR_SALE",
+"isEbook": false
+},
+"accessInfo": {
+"country": "IL",
+"viewability": "NO_PAGES",
+"embeddable": false,
+"publicDomain": false,
+"textToSpeechPermission": "ALLOWED",
+"epub": {
+"isAvailable": false
+},
+"pdf": {
+"isAvailable": false
+},
+"webReaderLink": "http://play.google.com/books/reader?id=o7w8PgAACAAJ&hl=&source=gbs_api",
+"accessViewStatus": "NONE",
+"quoteSharingAllowed": false
+},
+"searchInfo": {
+"textSnippet": "From the author of the bestseller &quot;The Golden Ratio&quot; comes the story of the 4,000-year-long mathematical quest that uncovered the laws of symmetry in nature and the arts."
+}
+},
+{
+"kind": "books#volume",
+"id": "0XmmAwAAQBAJ",
+"etag": "g99EYk3zfNA",
+"selfLink": "https://www.googleapis.com/books/v1/volumes/0XmmAwAAQBAJ",
+"volumeInfo": {
+"title": "Brilliant Blunders",
+"subtitle": "From Darwin to Einstein - Colossal Mistakes by Great Scientists That Changed Our Understanding of Life and the Universe",
+"authors": [
+"Mario Livio"
+],
+"publisher": "Simon and Schuster",
+"publishedDate": "2014-05-27",
+"description": "\"Drawing on the lives of five great scientists -- Charles Darwin, William Thomson (Lord Kelvin), Linus Pauling, Fred Hoyle and Albert Einstein -- scientist/author Mario Livio shows how even the greatest scientists made major mistakes and how science built on these errors to achieve breakthroughs, especially into the evolution of life and the universe\"--",
+"industryIdentifiers": [
+{
+"type": "ISBN_13",
+"identifier": "9781439192375"
+},
+{
+"type": "ISBN_10",
+"identifier": "1439192375"
+}
+],
+"readingModes": {
+"text": false,
+"image": false
+},
+"pageCount": 352,
+"printType": "BOOK",
+"categories": [
+"Biography & Autobiography"
+],
+"averageRating": 5,
+"ratingsCount": 1,
+"maturityRating": "NOT_MATURE",
+"allowAnonLogging": false,
+"contentVersion": "0.1.0.0.preview.0",
+"panelizationSummary": {
+"containsEpubBubbles": false,
+"containsImageBubbles": false
+},
+"imageLinks": {
+"smallThumbnail": "http://books.google.com/books/content?id=0XmmAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+"thumbnail": "http://books.google.com/books/content?id=0XmmAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+"language": "en",
+"previewLink": "http://books.google.com/books?id=0XmmAwAAQBAJ&printsec=frontcover&dq=mario+livio&hl=&cd=6&source=gbs_api",
+"infoLink": "http://books.google.com/books?id=0XmmAwAAQBAJ&dq=mario+livio&hl=&source=gbs_api",
+"canonicalVolumeLink": "https://books.google.com/books/about/Brilliant_Blunders.html?hl=&id=0XmmAwAAQBAJ"
+},
+"saleInfo": {
+"country": "IL",
+"saleability": "NOT_FOR_SALE",
+"isEbook": false
+},
+"accessInfo": {
+"country": "IL",
+"viewability": "PARTIAL",
+"embeddable": true,
+"publicDomain": false,
+"textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+"epub": {
+"isAvailable": false
+},
+"pdf": {
+"isAvailable": false
+},
+"webReaderLink": "http://play.google.com/books/reader?id=0XmmAwAAQBAJ&hl=&source=gbs_api",
+"accessViewStatus": "SAMPLE",
+"quoteSharingAllowed": false
+},
+"searchInfo": {
+"textSnippet": "&quot;Drawing on the lives of five great scientists -- Charles Darwin, William Thomson (Lord Kelvin), Linus Pauling, Fred Hoyle and Albert Einstein -- scientist/author Mario Livio shows how even the greatest scientists made major mistakes and ..."
+}
+},
+{
+"kind": "books#volume",
+"id": "BAiy7xPQVkoC",
+"etag": "pILLP8+SobU",
+"selfLink": "https://www.googleapis.com/books/v1/volumes/BAiy7xPQVkoC",
+"volumeInfo": {
+"title": "Cataclysmic Variables and Related Objects",
+"authors": [
+"International Astronomical Union. Colloquium"
+],
+"publisher": "Springer Science & Business Media",
+"publishedDate": "1983-04-30",
+"description": "Proceedings of IAU Colloquium No. 72, held in Haifa, Israel, August 9-13, 1982",
+"industryIdentifiers": [
+{
+"type": "ISBN_10",
+"identifier": "902771570X"
+},
+{
+"type": "ISBN_13",
+"identifier": "9789027715708"
+}
+],
+"readingModes": {
+"text": false,
+"image": true
+},
+"pageCount": 378,
+"printType": "BOOK",
+"categories": [
+"Science"
+],
+"maturityRating": "NOT_MATURE",
+"allowAnonLogging": false,
+"contentVersion": "0.4.6.0.preview.1",
+"panelizationSummary": {
+"containsEpubBubbles": false,
+"containsImageBubbles": false
+},
+"imageLinks": {
+"smallThumbnail": "http://books.google.com/books/content?id=BAiy7xPQVkoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+"thumbnail": "http://books.google.com/books/content?id=BAiy7xPQVkoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+"language": "en",
+"previewLink": "http://books.google.com/books?id=BAiy7xPQVkoC&printsec=frontcover&dq=mario+livio&hl=&cd=7&source=gbs_api",
+"infoLink": "http://books.google.com/books?id=BAiy7xPQVkoC&dq=mario+livio&hl=&source=gbs_api",
+"canonicalVolumeLink": "https://books.google.com/books/about/Cataclysmic_Variables_and_Related_Object.html?hl=&id=BAiy7xPQVkoC"
+},
+"saleInfo": {
+"country": "IL",
+"saleability": "NOT_FOR_SALE",
+"isEbook": false
+},
+"accessInfo": {
+"country": "IL",
+"viewability": "PARTIAL",
+"embeddable": true,
+"publicDomain": false,
+"textToSpeechPermission": "ALLOWED",
+"epub": {
+"isAvailable": false
+},
+"pdf": {
+"isAvailable": true,
+"acsTokenLink": "http://books.google.com/books/download/Cataclysmic_Variables_and_Related_Object-sample-pdf.acsm?id=BAiy7xPQVkoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+},
+"webReaderLink": "http://play.google.com/books/reader?id=BAiy7xPQVkoC&hl=&source=gbs_api",
+"accessViewStatus": "SAMPLE",
+"quoteSharingAllowed": false
+},
+"searchInfo": {
+"textSnippet": "Proceedings of IAU Colloquium No. 72, held in Haifa, Israel, August 9-13, 1982"
+}
+},
+{
+"kind": "books#volume",
+"id": "6bWUoAEACAAJ",
+"etag": "LeQt8qrt+GM",
+"selfLink": "https://www.googleapis.com/books/v1/volumes/6bWUoAEACAAJ",
+"volumeInfo": {
+"title": "The Accelerating Universe",
+"subtitle": "Infinite Expansion, the Cosmological Constant, and the Beauty of the Cosmos",
+"authors": [
+"Mario Livio"
+],
+"publisher": "Turner Publishing Company",
+"publishedDate": "2000-12",
+"description": "Advance Praise for The Accelerating Universe \"\"\"\"The Accelerating Universe\"\" is not only an informative book about modern cosmology. It is rich storytelling and, above all, a celebration of the human mind in its quest for beauty in all things.\"\" --Alan Lightman, author of Einstein's Dreams \"\"This is a wonderfully lucid account of the extraordinary discoveries that have made the last years a golden period for observational cosmology. But Mario Livio has not only given the reader one clear explanation after another of what astronomers are up to, he has used them to construct a provocative argument for the importance of aesthetics in the development of science and for the inseparability of science, art, and culture.\"\" --Lee Smolin, author of \"\"The Life of the Cosmos\"\" \"\"What a pleasure to read! An exciting, simple account of the universe revealed by modern astronomy. Beautifully written, clearly presented, informed by scientific and philosophical insights.\"\" --John Bahcall, Institute for Advanced Study \"\"A book with charm, beauty, elegance, and importance. As authoritative a journey as can be taken through modern cosmology.\"\" --Allan Sandage, Observatories of the Carnegie Institution of Washington",
+"industryIdentifiers": [
+{
+"type": "ISBN_10",
+"identifier": "1630261777"
+},
+{
+"type": "ISBN_13",
+"identifier": "9781630261771"
+}
+],
+"readingModes": {
+"text": false,
+"image": false
+},
+"pageCount": 292,
+"printType": "BOOK",
+"categories": [
+"Science"
+],
+"maturityRating": "NOT_MATURE",
+"allowAnonLogging": false,
+"contentVersion": "preview-1.0.0",
+"imageLinks": {
+"smallThumbnail": "http://books.google.com/books/content?id=6bWUoAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+"thumbnail": "http://books.google.com/books/content?id=6bWUoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+},
+"language": "en",
+"previewLink": "http://books.google.com/books?id=6bWUoAEACAAJ&dq=mario+livio&hl=&cd=8&source=gbs_api",
+"infoLink": "http://books.google.com/books?id=6bWUoAEACAAJ&dq=mario+livio&hl=&source=gbs_api",
+"canonicalVolumeLink": "https://books.google.com/books/about/The_Accelerating_Universe.html?hl=&id=6bWUoAEACAAJ"
+},
+"saleInfo": {
+"country": "IL",
+"saleability": "NOT_FOR_SALE",
+"isEbook": false
+},
+"accessInfo": {
+"country": "IL",
+"viewability": "NO_PAGES",
+"embeddable": false,
+"publicDomain": false,
+"textToSpeechPermission": "ALLOWED",
+"epub": {
+"isAvailable": false
+},
+"pdf": {
+"isAvailable": false
+},
+"webReaderLink": "http://play.google.com/books/reader?id=6bWUoAEACAAJ&hl=&source=gbs_api",
+"accessViewStatus": "NONE",
+"quoteSharingAllowed": false
+},
+"searchInfo": {
+"textSnippet": "&quot;&quot; --Alan Lightman, author of Einstein&#39;s Dreams &quot;&quot;This is a wonderfully lucid account of the extraordinary discoveries that have made the last years a golden period for observational cosmology."
+}
+},
+{
+"kind": "books#volume",
+"id": "Ax-sOAAACAAJ",
+"etag": "sTke74533YQ",
+"selfLink": "https://www.googleapis.com/books/v1/volumes/Ax-sOAAACAAJ",
+"volumeInfo": {
+"title": "The Golden Ratio",
+"subtitle": "The Story of Phi, the Extra Ordinary [i.e. Extraordinary] Number of Nature, Art and Beauty",
+"authors": [
+"Mario Livio"
+],
+"publisher": "Headline Review",
+"publishedDate": "2003",
+"description": "What do the Parthenon in Greece, crosses in graveyards, the ratio of the height of a woman's navel to a woman's height, sunflowers and Leonardo da Vinci's Mona Lisa have in common? The answer is that these disparate elements share a geometrical proportion of ancient origin commonly known as the golden ratio, or expressed numerically as phi. fractals and DNA on the way, the author takes us into the heart of this extraordinary number. He gives an account of the phi-obsessed individuals who devoted their lives to discovering its secrets - from the Pythagoreans who believed that the study of the Golden Ratio would reveal the hand of God, to the astronomer Johannes Kepler who felt that phi was the greatest treasure of geometry, to the modern day scientists who are discovering ever more remarkable ramifications of this strange, almost mystical, number.",
+"industryIdentifiers": [
+{
+"type": "ISBN_10",
+"identifier": "0747249881"
+},
+{
+"type": "ISBN_13",
+"identifier": "9780747249887"
+}
+],
+"readingModes": {
+"text": false,
+"image": false
+},
+"pageCount": 294,
+"printType": "BOOK",
+"categories": [
+"Algebraic fields"
+],
+"maturityRating": "NOT_MATURE",
+"allowAnonLogging": false,
+"contentVersion": "preview-1.0.0",
+"imageLinks": {
+"smallThumbnail": "http://books.google.com/books/content?id=Ax-sOAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+"thumbnail": "http://books.google.com/books/content?id=Ax-sOAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+},
+"language": "en",
+"previewLink": "http://books.google.com/books?id=Ax-sOAAACAAJ&dq=mario+livio&hl=&cd=9&source=gbs_api",
+"infoLink": "http://books.google.com/books?id=Ax-sOAAACAAJ&dq=mario+livio&hl=&source=gbs_api",
+"canonicalVolumeLink": "https://books.google.com/books/about/The_Golden_Ratio.html?hl=&id=Ax-sOAAACAAJ"
+},
+"saleInfo": {
+"country": "IL",
+"saleability": "NOT_FOR_SALE",
+"isEbook": false
+},
+"accessInfo": {
+"country": "IL",
+"viewability": "NO_PAGES",
+"embeddable": false,
+"publicDomain": false,
+"textToSpeechPermission": "ALLOWED",
+"epub": {
+"isAvailable": false
+},
+"pdf": {
+"isAvailable": false
+},
+"webReaderLink": "http://play.google.com/books/reader?id=Ax-sOAAACAAJ&hl=&source=gbs_api",
+"accessViewStatus": "NONE",
+"quoteSharingAllowed": false
+},
+"searchInfo": {
+"textSnippet": "The masterful story of &#39;phi&#39;, the mysterious ratio that is the keystone of art, maths and nature"
+}
+},
+{
+"kind": "books#volume",
+"id": "b9alDAAAQBAJ",
+"etag": "MkLP63hF4mw",
+"selfLink": "https://www.googleapis.com/books/v1/volumes/b9alDAAAQBAJ",
+"volumeInfo": {
+"title": "Improbable Planet",
+"subtitle": "How Earth Became Humanity's Home",
+"authors": [
+"Hugh Ross"
+],
+"publisher": "Baker Books",
+"publishedDate": "2016-09-06",
+"description": "The Latest Scientific Discoveries Point to an Intentional Creator Most of us remember the basics from science classes about how Earth came to be the only known planet that sustains complex life. But what most people don't know is that the more thoroughly researchers investigate the history of our planet, the more astonishing the story of our existence becomes. The number and complexity of the astronomical, geological, chemical, and biological features recognized as essential to human existence have expanded explosively within the past decade. An understanding of what is required to make possible a large human population and advanced civilizations has raised profound questions about life, our purpose, and our destiny. Are we really just the result of innumerable coincidences? Or is there a more reasonable explanation? This fascinating book helps nonscientists understand the countless miracles that undergird the exquisitely fine-tuned planet we call home--as if Someone had us in mind all along.",
+"industryIdentifiers": [
+{
+"type": "ISBN_13",
+"identifier": "9781493405398"
+},
+{
+"type": "ISBN_10",
+"identifier": "149340539X"
+}
+],
+"readingModes": {
+"text": true,
+"image": true
+},
+"pageCount": 288,
+"printType": "BOOK",
+"categories": [
+"Religion"
+],
+"maturityRating": "NOT_MATURE",
+"allowAnonLogging": true,
+"contentVersion": "1.6.8.0.preview.3",
+"panelizationSummary": {
+"containsEpubBubbles": false,
+"containsImageBubbles": false
+},
+"imageLinks": {
+"smallThumbnail": "http://books.google.com/books/content?id=b9alDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+"thumbnail": "http://books.google.com/books/content?id=b9alDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+"language": "en",
+"previewLink": "http://books.google.com/books?id=b9alDAAAQBAJ&pg=PT284&dq=mario+livio&hl=&cd=10&source=gbs_api",
+"infoLink": "http://books.google.com/books?id=b9alDAAAQBAJ&dq=mario+livio&hl=&source=gbs_api",
+"canonicalVolumeLink": "https://books.google.com/books/about/Improbable_Planet.html?hl=&id=b9alDAAAQBAJ"
+},
+"saleInfo": {
+"country": "IL",
+"saleability": "NOT_FOR_SALE",
+"isEbook": false
+},
+"accessInfo": {
+"country": "IL",
+"viewability": "PARTIAL",
+"embeddable": true,
+"publicDomain": false,
+"textToSpeechPermission": "ALLOWED",
+"epub": {
+"isAvailable": true,
+"acsTokenLink": "http://books.google.com/books/download/Improbable_Planet-sample-epub.acsm?id=b9alDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+},
+"pdf": {
+"isAvailable": true,
+"acsTokenLink": "http://books.google.com/books/download/Improbable_Planet-sample-pdf.acsm?id=b9alDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+},
+"webReaderLink": "http://play.google.com/books/reader?id=b9alDAAAQBAJ&hl=&source=gbs_api",
+"accessViewStatus": "SAMPLE",
+"quoteSharingAllowed": false
+},
+"searchInfo": {
+"textSnippet": "Rebecca G. Martin and <b>Mario Livio</b>, “On the Evolution of the Snow Line in Protoplanetary Disks,” Monthly Notices of the Royal Astronomical Society Letters 425 (September 2012): L6–L9; Rebecca G. Martin and <b>Mario Livio</b>, “On the Evolution&nbsp;..."
+}
+}
+]
+}
