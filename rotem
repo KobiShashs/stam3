@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "category": "FOOD",
+        "title": "10%",
+        "description": "hamburger",
+        "startDate": "2022-06-30",
+        "endDate": "2023-05-26",
+        "amount": 111,
+        "price": 100.0,
+        "image": "https://i.imgur.com/WCjLcus.jpg"
+    },
+    {
+        "id": 2,
+        "category": "RESTAURANT",
+        "title": "30%",
+        "description": "Dinner for 6",
+        "startDate": "2021-07-15",
+        "endDate": "2023-03-26",
+        "amount": 333,
+        "price": 300.0,
+        "image": "https://i.imgur.com/hXUS86J.jpg"
+    },
+    {
+        "id": 3,
+        "category": "RESTAURANT",
+        "title": "70%",
+        "description": "Lunch for 4",
+        "startDate": "2021-09-23",
+        "endDate": "2023-06-26",
+        "amount": 770,
+        "price": 700.0,
+        "image": "https://i.imgur.com/4EDirGk.jpg"
+    }
+]
